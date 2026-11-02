@@ -1,0 +1,8 @@
+{
+  "appId": "com.twacha.health",
+  "appName": "Twacha",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

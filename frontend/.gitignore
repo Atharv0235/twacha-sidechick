@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing and Coverage
+/coverage
+
+# Production and Distribution Builds
+dist/
+dist-ssr/
+build/
+*.apk
+*.aab
+
+# Android build artifacts
+.gradle/
+web/android/.gradle/
+web/android/build/
+web/android/app/build/
+web/android/capacitor-cordova-android-plugins/build/
+web/android/local.properties
+local.properties
+
+# Environment & Local Configuration
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor & System Files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log

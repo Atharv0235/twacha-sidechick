@@ -1,0 +1,17 @@
+{
+  "name": "Twacha: Skin and Dietary Wellness Tracker",
+  "short_name": "Twacha",
+  "start_url": "/?mode=app",
+  "display": "standalone",
+  "background_color": "#F5EFE6",
+  "theme_color": "#1C2920",
+  "description": "Student prototype: skin tracking, air quality and Indian food suggestions. Not a medical device.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
